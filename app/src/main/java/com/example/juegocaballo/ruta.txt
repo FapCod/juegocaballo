@@ -1,0 +1,28 @@
+-Mejorar funcionalidades existentes
+-Mejorar la experiencia de usuario
+-Annadir nuevas funcionalidades
+
+
+
+
+Errores:
+-
+
+
+Mejoras de UX:
+-un color para el punto actual y otra para el rastro
+-Mostrar opciones de movimiento
+
+
+
+Funcionalidades:
+-mover caballor en L
+-Pintar niveles
+-control de movimiento
+-control de opciones
+-control de tiempo
+-control de vida
+-mostrar publicidad
+-permitir pagar para premium
+-habilitar mas niveles para premium y eliminar ads
+-opcnion de compartir resultados

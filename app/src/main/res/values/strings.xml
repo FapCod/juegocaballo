@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JuegoCaballo</string>
+    <string name="title">Juego de Caballo</string>
+    <string name="level">Level</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="lives">Lives</string>
+    <string name="options">Options</string>
+    <string name="instructions">Move the horse over board to complete all cells</string>
+    <string name="credits">Game created by All</string>
+
+    <string name="premium">Tap here to remove ads, get more levels and unlimited lives</string>
+    <string name="premiumTitle">Get premium access forever</string>
+    <string name="premiumBenefit1">No more ads</string>
+    <string name="premiumBenefit2">Unlimited lives</string>
+    <string name="premiumBenefit3">Keep yuor reached levels</string>
+    <string name="pay">Pay only $1 dollar NOW</string>
+</resources>
